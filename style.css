@@ -39,6 +39,7 @@ hr{
 
 .btn{
     font-weight: 700;
+    color: black;
     border-radius: 300px;
     text-transform: uppercase;
 }
